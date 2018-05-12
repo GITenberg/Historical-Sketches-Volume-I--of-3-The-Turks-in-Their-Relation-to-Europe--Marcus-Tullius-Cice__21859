@@ -1,0 +1,36 @@
+_repo: Historical-Sketches-Volume-I--of-3-The-Turks-in-Their-Relation-to-Europe--Marcus-Tullius-Cice__21859
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Newman, John Henry
+    aliases:
+    - Newman, John Henry, Cardinal
+    - Newman, J. H. (John Henry)
+    birthdate: 1801
+    deathdate: 1890
+    gutenberg_agent_id: '8264'
+    url: http://www.gutenberg.org/2009/agents/8264
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
+description: ''
+gutenberg_issued: '2007-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cicero, Marcus Tullius'
+- !lcsh 'Turkey -- History'
+- !lcsh 'Church history -- Primitive and early church, ca. 30-600'
+- !lcc 'D'
+- !lcsh 'Apollonius, of Tyana'
+title: 'Historical Sketches, Volume I (of 3)
+
+  The Turks in Their Relation to Europe; Marcus Tullius Cicero; Apollonius of Tyana;
+  Primitive Christianity'
+url: http://www.gutenberg.org/ebooks/21859
